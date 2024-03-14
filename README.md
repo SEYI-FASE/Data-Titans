@@ -31,15 +31,12 @@
 
 ## Skills demonstrated:
 
-* ### Data sourcing:
- The dataset used for this analysis was sourced from youtube. We had various options of datasets to choose for this analysis but we settled    for one that had a high chance of answering the particular questions and objectives of this study. ![View dataset here](https://www.buymeacoffee.com/jiejenn/e/131884)
-* ### Data cleaning:
-The dataset could not be cleaned and was not needed in this sense and as such we used the dataset as it is.
+ ### Data sourcing:
+The dataset used for this analysis was sourced from youtube. We had various options of datasets to choose for this analysis but we settled    for one that had a high chance of answering the particular questions and objectives of this study. ![View dataset here](https://www.buymeacoffee.com/jiejenn/e/131884)
 
-## Analysis and findings
-
+## Analysis and Findings
 ![Screenshot (66)](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f7284229-129c-43dd-82c1-a9bac3113c28)
 
-The Image above shows the overall view of the analysis of the Netflix dataset showing the overall customer ratings. It is being viewed in different categories which are by viewers ratings, by the viewers choices on the type of Tv programme preferred, by viewers region and by Tv programme trend type.
+The Image above shows the overall view of the analysis of the Netflix dataset showing according tothe viewers and customers ratings. It is determined by various categories which include viewers ratings, by the viewers choices on the type of Tv programme preferred, by viewers region and by Tv programme trend type.
 
 
