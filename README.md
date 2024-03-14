@@ -11,8 +11,8 @@
 * Purpose of study
 * Assumptions, challenges and complaints
 * Skills demonstrated
-* Analysis and findings
-* Summary
+* Analysis
+* Findings and recommendations
 * References
 
 
@@ -37,27 +37,44 @@ This project is an analysis of a company called Netflix. It is an attempt to hel
   
 
 ## Assumptions, challenges and complaints:
-  Due to the way the dataset was sourced for and the platform in which it was gotten, we were limited and this made it unable for us to make some transformations to the dataset that will enable us derive more insights as we would have done. We had a number of datasets to explore from kaggle.com but the varying ones available on the platform were not suitable enough to answer the questions purposed for the success of the study.
+  As a result of the platform in which the dataset used for this study was gotten, there were limitations and this made it unable for us to make some transformations to the dataset that will enable us derive more insights as we should. We came across a number of datasets to explore from kaggle.com but the varying ones available on the platform were not suitable enough to answer the questions purposed for the success of the study.
   
 
 ## Skills demonstrated:
 
 ### Data sourcing:
-The dataset used for this analysis was sourced from youtube. We had various options of datasets to choose for this analysis but we settled for one that has a high chance of answering the particular questions and objectives of this study. The dataset contains 8785 rows and 12 columns and after investigating we can deduce that there are no duplicate entries or null entries and as such the dataset was loaded into Power Bi and the analysis process began.[View dataset here](https://github.com/SEYI-FASE/Data-Titans/files/14607466/netflix_titles.csv)
+The dataset used for this analysis was sourced from youtube. We had various options of datasets to choose for this analysis but we settled for one that has a high chance of answering the particular questions and objectives of this study. The dataset contains 8785 rows and 12 columns which covers the period between 1925 to 2021 and after investigating we can deduce that there are no duplicate entries nor null entries and as such the dataset was loaded into Power Bi and the analysis process began.[View dataset here](https://github.com/SEYI-FASE/Data-Titans/files/14607466/netflix_titles.csv)
 
 
-## Analysis and findings
+## Analysis:
 ![Screenshot (66)](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f7284229-129c-43dd-82c1-a9bac3113c28)
 
-The Image above shows the overall view of the analysis of the Netflix dataset according to the viewers and customers preference, global engagement and ratings. It is determined by various categories which include viewers ratings, by the viewers choices on the type of Tv programme preferred, by viewers region and by Tv programme trend type.
+The Image above shows the overall view of the analysis of the Netflix dataset according to the viewers and customers preferences, global engagements and ratings. It is determined by various categories which include viewers ratings, viewers choices on the type of Tv programme preferred, viewers region and by Tv programme trend type.
 
 
 ![movies](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/b0a610b4-0bfc-46de-91a4-465b25a2264a)
 
-This visual above shows that the company produced two varying programmes whwich are movies and tv shows where the movies has a rate of 6119 unlike Tv shows which is 2666. The company produced more of the movies option from the year 2011 and has constantly increased in the numbers ever since.
+This visual above shows that the company produced two varying programmes which are movies and tv shows where the movies has a rate of 6119 unlike Tv shows which is 2666. The company produced more of the movies option from the year 2011 and has constantly increased in the numbers ever since.
 
 
 ![Ratings by country](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f0d0bfd5-6e46-4abe-a955-77b17576a93c)
 
 As seen in previous image the movies option produced more and also in this visual we can see that out of the 93 geographical locations used in the study, the movies option was evident in 76 of the countries in which North America topped the chart.
+
+
+## Findings and recommendations:
+* ![Popular movie](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f673b810-728e-471f-936b-a1b0148f7fcd)![Popular tv ](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/b19a9c03-b952-47f5-a9e1-08c6ca42f670)
+
+
+Images above show that the most popular Tv show is the Kids Tv also the most popular movie is the drama, international movies. We can also deduce from the visuals above that the most popular Tv show and Movie based on viewers preferences are the same  which is TV-MA (TV Matured Audience).
+
+
+*![Correlation](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/895ea954-ee2c-42cb-bded-ae0ea1af9693)
+
+Investigation shows that there is minimal correlation in the relationship between user ratings and viewership data as Netflix as a company caters to various groups and classes of people with varying preferences.
+
+*![Movies by year](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/0f055197-6799-4c5a-9344-763e603232d8)
+
+Netflix has maintained a consistent growth and focus in the movie production over tv shows from the year 1925 with a significant increase from the year 2011 upwards.
+
 
