@@ -62,19 +62,22 @@ This visual above shows that the company produced two varying programmes which a
 As seen in previous image the movies option produced more and also in this visual we can see that out of the 93 geographical locations used in the study, the movies option was evident in 76 of the countries in which North America topped the chart.
 
 
-## Findings and recommendations:
-* ![Popular movie](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f673b810-728e-471f-936b-a1b0148f7fcd)![Popular tv ](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/b19a9c03-b952-47f5-a9e1-08c6ca42f670)
+## Findings:
+ * ![Popular movie](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f673b810-728e-471f-936b-a1b0148f7fcd)![Popular tv ](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/b19a9c03-b952-47f5-a9e1-08c6ca42f670)
 
 
 Images above show that the most popular Tv show is the Kids Tv also the most popular movie is the drama, international movies. We can also deduce from the visuals above that the most popular Tv show and Movie based on viewers preferences are the same  which is TV-MA (TV Matured Audience).
 
 
-*![Correlation](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/895ea954-ee2c-42cb-bded-ae0ea1af9693)
+* ![Correlation](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/895ea954-ee2c-42cb-bded-ae0ea1af9693)
 
 Investigation shows that there is minimal correlation in the relationship between user ratings and viewership data as Netflix as a company caters to various groups and classes of people with varying preferences.
 
-*![Movies by year](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/0f055197-6799-4c5a-9344-763e603232d8)
+* ![Movies by year](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/0f055197-6799-4c5a-9344-763e603232d8)
 
 Netflix has maintained a consistent growth and focus in the movie production over tv shows from the year 1925 with a significant increase from the year 2011 upwards.
+
+
+## Recommendations:
 
 
