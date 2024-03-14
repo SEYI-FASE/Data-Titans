@@ -27,7 +27,7 @@
 * Identify potential areas for growth and expansion for the company.
 
 ## Assumptions,Challenges and complaints:
-  Due to the way the dataset was sourced for and the platform in which it was gotten, we were limited and this made it unable for us to make some transformations to the dataset that will enable us derive more insights as we would have done. We had a number of datasets to explore from kaggle.com but the varying ones available on the platform were not suitable enough to answer the questions purposed for the success of the study. 
+  Due to the way the dataset was sourced for and the platform in which it was gotten, we were limited and this made it unable for us to make some transformations to the dataset that will enable us derive more insights as we would have done. We had a number of datasets to explore from kaggle.com but the varying ones available on the platform were not suitable enough to answer the questions purposed for the success of the study.The dataset has 8785 rows and it covers the period between 1925 to 2021.
 
 ## Skills demonstrated:
 
@@ -39,5 +39,7 @@ The dataset could not be cleaned and was not needed in this sense and as such we
 ## Analysis and findings
 
 ![Screenshot (66)](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f7284229-129c-43dd-82c1-a9bac3113c28)
+
+The Image above shows the overall view of the analysis of the Netflix dataset showing the overall customer ratings. It is being viewed in different categories which are by viewers ratings, by the viewers choices on the type of Tv programme preferred, by viewers region and by Tv programme trend type.
 
 
