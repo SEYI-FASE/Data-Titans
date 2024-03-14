@@ -7,6 +7,12 @@
 
 ### TABLE OF CONTENETS
 * ## Introduction
+* ## Purpose of study
+* ## Skills demonstrated
+* ## Analysis and findings
+* ## Assumptions, challenges and constraints
+* ## Summary
+* ## References
 
 
 
