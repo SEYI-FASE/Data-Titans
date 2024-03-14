@@ -19,7 +19,7 @@
 ## Introduction:
 This project is an analysis of a company called Netflix. It is an attempt to help the company understand what their data is saying about their services and their customers preferences to the services rendered and to also help them come up with insights for informed decisions and recommendations that will bring about more success to the company. This is a project carried by a team called the Data Titans
 
-  ### Meet the Titans
+### Meet the Titans
   * Fase Oluwaseyi
   * Victor Isiting Ekanem
   * Oluwadarasimi Sotonwa
