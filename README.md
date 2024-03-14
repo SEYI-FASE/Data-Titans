@@ -1,5 +1,5 @@
 ### ANALYSIS OF NETFLIX DATA FOR BUSINESS INSIGHTS 
-### Dated:  15th, March, 2024
+### Dated:  15th, March 2024
 ### Presented by: Data Titans - Terra Learning bootcamp 8.0  
 
 
@@ -63,7 +63,7 @@ As seen in previous image the movies option produced more and also in this visua
 
 
 ## Findings:
- * ![Popular movie](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f673b810-728e-471f-936b-a1b0148f7fcd)![Popular tv ](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/b19a9c03-b952-47f5-a9e1-08c6ca42f670)
+* ![Popular movie](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f673b810-728e-471f-936b-a1b0148f7fcd)![Popular tv ](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/b19a9c03-b952-47f5-a9e1-08c6ca42f670)
 
 
 Images above show that the most popular Tv show is the Kids Tv also the most popular movie is the drama, international movies. We can also deduce from the visuals above that the most popular Tv show and Movie based on viewers preferences are the same  which is TV-MA (TV Matured Audience).
