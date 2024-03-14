@@ -32,8 +32,12 @@
 ## Skills demonstrated:
 
 * ### Data sourcing:
- The dataset used for this analysis was sourced from youtube. We had various options of datasets to choose for this analysis but we settled    for one that had a high chance of answering the particular questions and objectives of this study. 
+ The dataset used for this analysis was sourced from youtube. We had various options of datasets to choose for this analysis but we settled    for one that had a high chance of answering the particular questions and objectives of this study. ![View dataset here](https://www.buymeacoffee.com/jiejenn/e/131884)
 * ### Data cleaning:
 The dataset could not be cleaned and was not needed in this sense and as such we used the dataset as it is.
+
+## Analysis and findings
+
+![Screenshot (66)](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/f7284229-129c-43dd-82c1-a9bac3113c28)
 
 
