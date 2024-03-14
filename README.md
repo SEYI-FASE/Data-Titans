@@ -31,7 +31,7 @@
 
 ## Skills demonstrated:
 
- ### Data sourcing:
+### Data sourcing:
 The dataset used for this analysis was sourced from youtube. We had various options of datasets to choose for this analysis but we settled    for one that had a high chance of answering the particular questions and objectives of this study. ![View dataset here](https://www.buymeacoffee.com/jiejenn/e/131884)
 
 ## Analysis and Findings
