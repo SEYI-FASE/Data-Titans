@@ -25,6 +25,7 @@ This project is an analysis of a company called Netflix. It is an attempt to hel
   * Oluwadarasimi Sotonwa
   * Emmanuel Osas Ogbokhun
   * Daniel Ebikonboere Betty
+  * Idowu Adenike Esther
     
 
 ## Purpose of study:
