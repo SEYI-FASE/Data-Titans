@@ -37,7 +37,8 @@ This project is an analysis of a company called Netflix. It is an attempt to hel
   
 
 ## Assumptions, challenges and complaints:
-  As a result of the platform in which the dataset used for this study was gotten, there were limitations and this made it unable for us to make some transformations to the dataset that will enable us derive more insights as we should. We came across a number of datasets to explore from kaggle.com but the varying ones available on the platform were not suitable enough to answer the questions purposed for the success of the study.
+ Kaggle.com had various types of datasets concerning Netflix that could answer different questions and objectives but we barely found any that could answer the specific objective questions of this study and as such we had to source further.
+As a result of the objective of this study and in order to limit our self within the scope of the study, we did not need to make any transformations from the dataset we got.
   
 
 ## Skills demonstrated:
