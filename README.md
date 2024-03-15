@@ -53,6 +53,8 @@ The dataset used for this analysis was sourced from youtube. We had various opti
 
 The Image above shows the overall view of the analysis of the Netflix dataset according to the viewers and customers preferences, global engagements and ratings. It is determined by various categories which include viewers ratings, viewers choices on the type of Tv programme preferred, viewers region and by Tv programme trend type.
 
+[Click to interact with visuals!](https://careey-my.sharepoint.com/:u:/g/personal/nicks_careey_onmicrosoft_com/EU4oTRxY_GVJui9ZG20cxGsBjbr-TkUZsDivx-KSQbgc0g?e=DlJvk1)
+
 
 ![movies](https://github.com/SEYI-FASE/Data-Titans/assets/134503256/b0a610b4-0bfc-46de-91a4-465b25a2264a)
 
