@@ -81,5 +81,7 @@ Netflix has maintained a consistent growth and focus in the movie production ove
 
 
 ## Recommendations:
+* One main recommendation to enable a continuous success rate in the ratings of the viewers is to concentrate on the strengths which has been identified as the movie category, particularly with the TV – MA preference. 
+* The Tv- shows is not doing bad either but more attention should be focused to the Kids Tv genre with preference TV -MA as it has the highest number of ratings in the category and has a high possibility to pull more engagement if more productions in this genre are made.
 
 
